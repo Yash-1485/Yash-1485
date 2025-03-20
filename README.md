@@ -22,7 +22,11 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p><hr>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/yash-parekh-bb5404330" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<p>
+  <a target="_blank" href="https://www.linkedin.com/in/yash-parekh-bb5404330" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+  <a href="https://www.hackerrank.com/yashparekh914"><img alt="Static Badge" src="https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=HackerRank&logoColor=00EA64&logoSize=auto&color=%23000">
+</a>
+</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Yash-1485&show_icons=true&locale=en" alt="Yash-1485" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yash-1485&show_icons=true&locale=en&layout=compact" alt="Yash-1485" /></p>
