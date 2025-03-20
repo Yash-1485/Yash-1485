@@ -23,7 +23,6 @@
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p><hr>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/yash-parekh-bb5404330" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a href="[https://www.hackerrank.com/](https://www.hackerrank.com/profile/yashparekh914)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yash parekh" style="vertical-align: middle;display: inline-block; width: 30px; height: 30px;" id="hkimage"/></a></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Yash-1485&show_icons=true&locale=en" alt="Yash-1485" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yash-1485&show_icons=true&locale=en&layout=compact" alt="Yash-1485" /></p>
