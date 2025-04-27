@@ -33,6 +33,9 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;">
 <!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /> -->
   <img alt="Static Badge" src="https://img.shields.io/badge/Node.js%20-%20Language%20--%20Programming%20Language?style=for-the-badge&logo=nodedotjs&logoColor=black&logoSize=auto&color=green">
+</a>
+<a target="_blank" href="https://expressjs.com/" style="display: inline-block;">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Express.js%20-%20Express?style=for-the-badge&logo=express&logoSize=auto&color=black">
 </a><hr>
 <h3>🛢️ Databases</h3>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;">
