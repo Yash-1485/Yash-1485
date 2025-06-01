@@ -40,6 +40,9 @@
 <a target="_blank" href="https://react.dev/" style="display: inline-block;">
   <img alt="Static Badge" src="https://img.shields.io/badge/ReactJS%20-%20ReactJS?style=for-the-badge&logo=react&logoSize=auto&color=black">
 </a>
+<a target="_blank" href="https://www.typescriptlang.org/" style="display: inline-block;">
+  <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript%20-%20TypeScript?style=for-the-badge&logo=typescript&logoSize=auto&labelColor=black&color=blue">
+</a>
 <hr>
 <h3>🛢️ Databases</h3>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;">
