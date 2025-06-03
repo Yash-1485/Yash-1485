@@ -40,8 +40,11 @@
 <a target="_blank" href="https://react.dev/" style="display: inline-block;">
   <img alt="Static Badge" src="https://img.shields.io/badge/ReactJS%20-%20ReactJS?style=for-the-badge&logo=react&logoSize=auto&color=black">
 </a>
-<a target="_blank" href="https://www.typescriptlang.org/" style="display: inline-block;">
-  <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript%20-%20TypeScript?style=for-the-badge&logo=typescript&logoSize=auto&labelColor=black&color=blue">
+<a target="_blank" href="https://www.typescriptlang.org/" style="display: inline-block; text-decoration: none;">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%20TypeScript?style=for-the-badge&logo=typescript&logoSize=auto&labelColor=%23fff&color=%233178C6">
+</a>
+<a target="_blank" href="https://angular.dev/" style="display: inline-block;">
+  <img alt="AngularJS" src="https://img.shields.io/badge/AngularJS%20-%20AngularJS?style=for-the-badge&logo=angular&logoSize=auto&labelColor=%23F3094B&color=%23B52E31">
 </a>
 <hr>
 <h3>🛢️ Databases</h3>
