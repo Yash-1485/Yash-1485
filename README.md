@@ -2,77 +2,40 @@
 <p>I am pursuing my Computer Engineering degree from L.J. Institute of Engineering and Technology.</p>
 <h2>🚀 Skills & Technologies</h2>
 <h3>💻 Programming Languages</h3>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;">
-<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /> -->
-  <img alt="Static Badge" src="https://img.shields.io/badge/Python-%20Language%20--%20Programming%20Language?style=for-the-badge&logo=python&logoColor=white&logoSize=auto&color=yellow">
-</a>
-  <hr>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</p>
+<hr>
 <h3>🌐 Web Development</h3>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;">
-<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /> -->
-  <img alt="Static Badge" src="https://img.shields.io/badge/html%20-%20Language?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto&color=orange">
-</a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;">
-<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /> -->
-  <img alt="Static Badge" src="https://img.shields.io/badge/CSS%20-%20Language?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto&color=blue">
-</a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;">
-<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /> -->
-  <img alt="Static Badge" src="https://img.shields.io/badge/JavScript%20-%20Language?style=for-the-badge&logo=javascript&logoColor=white&logoSize=auto&color=gold">
-</a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;">
-<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /> -->
-  <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap%20-%20Framework?style=for-the-badge&logo=bootstrap&logoColor=white&logoSize=auto&color=purple">
-</a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;">
-<!--   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /> -->
-  <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind%20CSS%20-%20Language%20--%20Programming%20Language?style=for-the-badge&logo=tailwindcss&logoColor=white&logoSize=auto&color=skyblue">
-</a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;">
-<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /> -->
-  <img alt="Static Badge" src="https://img.shields.io/badge/Node.js%20-%20Language%20--%20Programming%20Language?style=for-the-badge&logo=nodedotjs&logoColor=black&logoSize=auto&color=green">
-</a>
-<a target="_blank" href="https://expressjs.com/" style="display: inline-block;">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Express.js%20-%20Express?style=for-the-badge&logo=express&logoSize=auto&color=black">
-</a>
-<a target="_blank" href="https://react.dev/" style="display: inline-block;">
-  <img alt="Static Badge" src="https://img.shields.io/badge/ReactJS%20-%20ReactJS?style=for-the-badge&logo=react&logoSize=auto&color=black">
-</a>
-<a target="_blank" href="https://www.typescriptlang.org/" style="display: inline-block; text-decoration: none;">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%20TypeScript?style=for-the-badge&logo=typescript&logoSize=auto&labelColor=%23fff&color=%233178C6">
-</a>
-<a target="_blank" href="https://angular.dev/" style="display: inline-block;">
-  <img alt="AngularJS" src="https://img.shields.io/badge/AngularJS%20-%20AngularJS?style=for-the-badge&logo=angular&logoSize=auto&labelColor=%23F3094B&color=%23B52E31">
-</a>
+<p>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+</p>
 <hr>
 <h3>🛢️ Databases</h3>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;">
-<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /> -->
+<p>
   <img alt="Static Badge" src="https://img.shields.io/badge/MySQL%20-%20Language?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto&color=blue">
-</a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;">
-<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /> -->
   <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB%20-%20Language?style=for-the-badge&logo=mongodb&logoColor=white&logoSize=auto&color=green">
-</a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;">
-<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /> -->
   <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL%20-%20Language?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=auto&color=blue">
-</a><hr>
+</p>
+<hr>
 <h3>🔧 Tools & Platforms</h3>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;">
-<!--   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /> -->
-  <img alt="Static Badge" src="https://img.shields.io/badge/figma%20-%20Language?style=for-the-badge&logo=figma&logoColor=white&logoSize=auto&color=black">
-</a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;">
-<!--   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /> -->
-  <img alt="Static Badge" src="https://img.shields.io/badge/Git%20-%20Language?style=for-the-badge&logo=git&logoColor=black&logoSize=auto&color=coral">
-</a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;">
-<!--   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /> -->
-  <img alt="Static Badge" src="https://img.shields.io/badge/arduino%20-%20Language?style=for-the-badge&logo=arduino&logoColor=black&logoSize=auto&color=skyblue">
-</a></p><hr>
+<p>
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&color=purple">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+</p>
+<hr>
 <h2>⚡️ Where to find me</h2>
 <p>
   <a target="_blank" href="https://www.linkedin.com/in/yash-parekh-bb5404330" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
