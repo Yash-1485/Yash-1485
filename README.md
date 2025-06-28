@@ -20,6 +20,7 @@
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img alt="Flask" src="https://img.shields.io/badge/Flask%20-%20Flask?style=for-the-badge&logo=flask&color=black">
 </p>
 <hr>
 <h3>🛢️ Databases</h3>
