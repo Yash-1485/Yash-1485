@@ -28,6 +28,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/MySQL%20-%20Language?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto&color=blue">
   <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB%20-%20Language?style=for-the-badge&logo=mongodb&logoColor=white&logoSize=auto&color=green">
   <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL%20-%20Language?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=auto&color=blue">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Docker%20-%20Docker?style=for-the-badge&logo=docker&logoColor=white&color=black">
 </p>
 <hr>
 <h3>🔧 Tools & Platforms</h3>
