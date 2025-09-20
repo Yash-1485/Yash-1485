@@ -21,6 +21,7 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img alt="Flask" src="https://img.shields.io/badge/Flask%20-%20Flask?style=for-the-badge&logo=flask&color=black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Nextjs%20-%20nextjs?style=for-the-badge&logo=nextdotjs&color=black">
 </p>
 <hr>
 <h3>🛢️ Databases</h3>
@@ -37,6 +38,7 @@
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Docker%20-%20Docker?style=for-the-badge&logo=docker&logoColor=white&color=black">
   <img alt="Static Badge" src="https://img.shields.io/badge/Linux%20-%20Linux?style=for-the-badge&logo=linux&color=gray">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Prisma%20-%20Prisma?style=for-the-badge&logo=prisma&color=black">
 </p>
 <hr>
 <h2>⚡️ Where to find me</h2>
