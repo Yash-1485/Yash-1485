@@ -36,6 +36,7 @@
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Docker%20-%20Docker?style=for-the-badge&logo=docker&logoColor=white&color=black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Linux%20-%20Linux?style=for-the-badge&logo=linux&color=gray">
 </p>
 <hr>
 <h2>⚡️ Where to find me</h2>
