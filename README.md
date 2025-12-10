@@ -3,8 +3,8 @@
 <h2>🚀 Skills & Technologies</h2>
 <h3>💻 Programming Languages</h3>
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="42" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="JAVA" width="42" height="42" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
 <hr>
@@ -21,14 +21,15 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img alt="Flask" src="https://img.shields.io/badge/Flask%20-%20Flask?style=for-the-badge&logo=flask&color=black">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Nextjs%20-%20nextjs?style=for-the-badge&logo=nextdotjs&color=black">
+  <img alt="NextJs" src="https://img.shields.io/badge/Nextjs%20-%20nextjs?style=for-the-badge&logo=nextdotjs&color=black">
+  <img alt="Apache" src="https://img.shields.io/badge/apache%20-%20Apache?style=for-the-badge&logo=apache&logoColor=%23d12127&color=%23304558">
 </p>
 <hr>
 <h3>🛢️ Databases</h3>
 <p>
-  <img alt="Static Badge" src="https://img.shields.io/badge/MySQL%20-%20Language?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto&color=blue">
-  <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB%20-%20Language?style=for-the-badge&logo=mongodb&logoColor=white&logoSize=auto&color=green">
-  <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL%20-%20Language?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=auto&color=blue">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%20Language?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto&color=blue">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%20Language?style=for-the-badge&logo=mongodb&logoColor=white&logoSize=auto&color=green">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL%20-%20Language?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=auto&color=blue">
 </p>
 <hr>
 <h3>🔧 Tools & Platforms</h3>
@@ -36,9 +37,12 @@
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&color=purple">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Docker%20-%20Docker?style=for-the-badge&logo=docker&logoColor=white&color=black">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Linux%20-%20Linux?style=for-the-badge&logo=linux&color=gray">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Prisma%20-%20Prisma?style=for-the-badge&logo=prisma&color=black">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker%20-%20Docker?style=for-the-badge&logo=docker&logoColor=white&color=black">
+  <img alt="Linux" src="https://img.shields.io/badge/linux%20-%20Linux?style=for-the-badge&logo=linux&logoColor=black&color=%231791d7">
+  <img alt="LinuxMint" src="https://img.shields.io/badge/linuxMint%20-%20LinuxMint?style=for-the-badge&logo=linuxmint&logoColor=white&color=%235ab556">
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma%20-%20Prisma?style=for-the-badge&logo=prisma&color=black">
+  <img alt="Nginx" src="https://img.shields.io/badge/nginx%20-%20NGinx?style=for-the-badge&logo=nginx&logoColor=%23029648&color=%231c262d">
+  <img alt="Apache" src="https://img.shields.io/badge/apache%20-%20Apache?style=for-the-badge&logo=apache&logoColor=%23d12127&color=%231c262d">
 </p>
 <hr>
 <h2>⚡️ Where to find me</h2>
