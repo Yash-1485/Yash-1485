@@ -24,6 +24,7 @@
   <img alt="NextJs" src="https://img.shields.io/badge/Nextjs%20-%20nextjs?style=for-the-badge&logo=nextdotjs&color=black">
   <img alt="Apache" src="https://img.shields.io/badge/apache%20-%20Apache?style=for-the-badge&logo=apache&logoColor=%23d12127&color=%23304558">
   <img alt="React Native" src="https://img.shields.io/badge/React%20Native%20-%20ReactNative?style=for-the-badge&logo=react&logoColor=blue&color=black">
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot%20-%20Spring%20Boot?style=for-the-badge&logo=springboot&logoColor=green&color=black">
 </p>
 <hr>
 <h3>🛢️ Databases</h3>
