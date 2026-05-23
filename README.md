@@ -6,6 +6,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="42" height="42" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="JAVA" width="42" height="42" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Dart%20-%20Dart?style=for-the-badge&logo=dart&logoColor=%233dc0fc&color=%231c2733">
 </p>
 <hr>
 <h3>🌐 Web Development</h3>
@@ -43,8 +44,11 @@
   <img alt="Linux" src="https://img.shields.io/badge/linux%20-%20Linux?style=for-the-badge&logo=linux&logoColor=black&color=%231791d7">
   <img alt="LinuxMint" src="https://img.shields.io/badge/linuxMint%20-%20LinuxMint?style=for-the-badge&logo=linuxmint&logoColor=white&color=%235ab556">
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma%20-%20Prisma?style=for-the-badge&logo=prisma&color=black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/TypeORM%20-%20TypeORM?style=for-the-badge&logo=typeorm&logoColor=%23ff7733&color=%23000">
   <img alt="Nginx" src="https://img.shields.io/badge/nginx%20-%20NGinx?style=for-the-badge&logo=nginx&logoColor=%23029648&color=%231c262d">
   <img alt="Apache" src="https://img.shields.io/badge/apache%20-%20Apache?style=for-the-badge&logo=apache&logoColor=%23d12127&color=%231c262d">
+  <img alt="Redis" src="https://img.shields.io/badge/Redis%20-%20Redis?style=for-the-badge&logo=redis&logoColor=%23ff4538&color=%23163240">
+  <img alt="Static Badge" src="https://img.shields.io/badge/AWS%20-%20AWS?style=for-the-badge&color=%23163240">
 </p>
 <hr>
 <h2>⚡️ Where to find me</h2>
@@ -54,6 +58,6 @@
 </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Yash-1485&show_icons=true&locale=en" alt="Yash-1485" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yash-1485&show_icons=true&locale=en&layout=compact" alt="Yash-1485" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yash-1485" alt="Yash-1485" /></a></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Yash-1485&show_icons=true&locale=en" alt="Yash-1485" /></p> -->
+<!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yash-1485&show_icons=true&locale=en&layout=compact" alt="Yash-1485" /></p> -->
+<!-- <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yash-1485" alt="Yash-1485" /></a></p> -->
