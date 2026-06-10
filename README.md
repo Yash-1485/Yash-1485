@@ -22,6 +22,7 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img alt="Flask" src="https://img.shields.io/badge/Flask%20-%20Flask?style=for-the-badge&logo=flask&color=black">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI%20-%20FASTAPI?style=for-the-badge&logo=fastapi&logoColor=%23fff&color=%23009485">
   <img alt="NextJs" src="https://img.shields.io/badge/Nextjs%20-%20nextjs?style=for-the-badge&logo=nextdotjs&color=black">
   <img alt="Apache" src="https://img.shields.io/badge/apache%20-%20Apache?style=for-the-badge&logo=apache&logoColor=%23d12127&color=%23304558">
   <img alt="React Native" src="https://img.shields.io/badge/React%20Native%20-%20ReactNative?style=for-the-badge&logo=react&logoColor=blue&color=black">
