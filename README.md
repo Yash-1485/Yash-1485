@@ -70,6 +70,9 @@ Git · GitHub · Redis · Figma · Arduino
   <a href="https://www.linkedin.com/in/yash-parekh-bb5404330">
     <img src="https://img.shields.io/badge/LinkedIn-0A77B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://yash-1485.github.io/Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.hackerrank.com/yashparekh914">
     <img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=00EA64" alt="HackerRank" />
   </a>
